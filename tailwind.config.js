@@ -7,7 +7,8 @@ colors:{
   'primary': '#3490dc',
 },
 fontFamily:{
-  'chayan_font':['']
+  'display':['Poppins','sans-serif'],
+  'body':['inter','sans-serif'],
 }
 
     },
